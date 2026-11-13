@@ -1,0 +1,401 @@
+[
+  {
+    "chunk_id": "C001",
+    "source_id": "ISSN_PROTEIN",
+    "source_title": "ISSN — Position Stand: Protein and Exercise",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/",
+    "section": "Daily protein",
+    "topic": "muscle",
+    "text": "For most healthy exercising adults seeking to maintain or build muscle, the ISSN position stand describes an overall protein intake of about 1.4 to 2.0 grams per kilogram of body weight per day. Individual requirements depend on training, diet and circumstances.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "protein",
+      "daily",
+      "training"
+    ]
+  },
+  {
+    "chunk_id": "C002",
+    "source_id": "ISSN_PROTEIN",
+    "source_title": "ISSN — Position Stand: Protein and Exercise",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/",
+    "section": "Protein and resistance training",
+    "topic": "muscle",
+    "text": "Resistance exercise and dietary protein both stimulate muscle protein synthesis. Together they can support muscle adaptation; adequate overall daily intake matters.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "protein",
+      "resistance",
+      "muscle"
+    ]
+  },
+  {
+    "chunk_id": "C003",
+    "source_id": "ISSN_PROTEIN",
+    "source_title": "ISSN — Position Stand: Protein and Exercise",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/",
+    "section": "Timing of protein",
+    "topic": "muscle",
+    "text": "The ISSN discusses protein intake either before or after resistance exercise. It emphasizes total daily intake; there is no single mandatory immediate post-workout window.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "protein",
+      "timing",
+      "workout"
+    ]
+  },
+  {
+    "chunk_id": "C004",
+    "source_id": "ISSN_PROTEIN",
+    "source_title": "ISSN — Position Stand: Protein and Exercise",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/",
+    "section": "Per-meal protein",
+    "topic": "muscle",
+    "text": "A general reference in the ISSN position statement is 20–40 grams of high-quality protein per serving, but meal needs vary by age, body mass and exercise. This is not a personalized prescription.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "protein",
+      "servings",
+      "meal"
+    ]
+  },
+  {
+    "chunk_id": "C005",
+    "source_id": "ISSN_PROTEIN",
+    "source_title": "ISSN — Position Stand: Protein and Exercise",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/",
+    "section": "Protein distribution",
+    "topic": "muscle",
+    "text": "The ISSN suggests spreading protein across the day, often around every three to four hours, as one practical strategy. The overall pattern and adequacy are more important than a rigid schedule.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "protein",
+      "meals",
+      "distribution"
+    ]
+  },
+  {
+    "chunk_id": "C006",
+    "source_id": "ISSN_PROTEIN",
+    "source_title": "ISSN — Position Stand: Protein and Exercise",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/",
+    "section": "Recovery",
+    "topic": "muscle",
+    "text": "Protein provides amino acids for building and repairing muscle after exercise; both resistance training and nutrition contribute to adaptations.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "recovery",
+      "proteins"
+    ]
+  },
+  {
+    "chunk_id": "C007",
+    "source_id": "ISSN_BODY",
+    "source_title": "ISSN — Position Stand: Diets and Body Composition",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/",
+    "section": "Energy balance and fat loss",
+    "topic": "weight",
+    "text": "The ISSN diet-and-body-composition review finds that sustained energy deficit drives fat loss over time. It does not endorse one universal diet or a fixed calorie target for all individuals.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "calories",
+      "fat loss",
+      "weight"
+    ]
+  },
+  {
+    "chunk_id": "C008",
+    "source_id": "ISSN_BODY",
+    "source_title": "ISSN — Position Stand: Diets and Body Composition",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/",
+    "section": "Energy balance and muscle gain",
+    "topic": "weight",
+    "text": "The ISSN review describes a sustained energy surplus as a factor that can support lean-mass gain alongside resistance training. Outcomes depend on training status and the level of surplus.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "calories",
+      "muscle gain"
+    ]
+  },
+  {
+    "chunk_id": "C009",
+    "source_id": "ISSN_BODY",
+    "source_title": "ISSN — Position Stand: Diets and Body Composition",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/",
+    "section": "Diet approach diversity",
+    "topic": "weight",
+    "text": "Different dietary patterns, including lower-fat and lower-carbohydrate approaches, may yield similar body-composition outcomes when key factors are matched. Adherence and nutritional adequacy matter.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "diet",
+      "comparison",
+      "weight"
+    ]
+  },
+  {
+    "chunk_id": "C010",
+    "source_id": "ISSN_BODY",
+    "source_title": "ISSN — Position Stand: Diets and Body Composition",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/",
+    "section": "Preserving lean mass",
+    "topic": "weight",
+    "text": "During an energy deficit, adequate dietary protein and resistance exercise can help preserve lean tissue. Very restrictive strategies are not suitable for generic automated recommendations.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "weight",
+      "muscles",
+      "protein"
+    ]
+  },
+  {
+    "chunk_id": "C011",
+    "source_id": "ISSN_BODY",
+    "source_title": "ISSN — Position Stand: Diets and Body Composition",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/",
+    "section": "Slow changes",
+    "topic": "weight",
+    "text": "For leaner resistance-trained adults, more gradual weight loss may help preserve lean mass compared with aggressive weight reduction.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "weight",
+      "lean mass"
+    ]
+  },
+  {
+    "chunk_id": "C012",
+    "source_id": "ISSN_BODY",
+    "source_title": "ISSN — Position Stand: Diets and Body Composition",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/",
+    "section": "Intermittent restriction",
+    "topic": "weight",
+    "text": "In research reviewed by the ISSN, intermittent calorie restriction has no clear overall superiority to continuous calorie restriction for body composition.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "intermittent fasting",
+      "calories"
+    ]
+  },
+  {
+    "chunk_id": "C013",
+    "source_id": "NIH",
+    "source_title": "NIH ODS — Dietary Supplements for Exercise and Athletic Performance",
+    "source_url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+    "section": "Essential amino acids",
+    "topic": "muscle",
+    "text": "Protein supplies amino acids needed to maintain and repair muscle. Essential amino acids must come from food or appropriate supplementation.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "protein",
+      "amino acids"
+    ]
+  },
+  {
+    "chunk_id": "C014",
+    "source_id": "NIH",
+    "source_title": "NIH ODS — Dietary Supplements for Exercise and Athletic Performance",
+    "source_url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+    "section": "Quality and quantity",
+    "topic": "muscle",
+    "text": "The NIH explains that athletes should consider both the amount and quality of dietary protein. Balanced eating patterns and total nutrition remain important.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "protein",
+      "athletes"
+    ]
+  },
+  {
+    "chunk_id": "C015",
+    "source_id": "NIH",
+    "source_title": "NIH ODS — Dietary Supplements for Exercise and Athletic Performance",
+    "source_url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+    "section": "Creatine evidence",
+    "topic": "muscle",
+    "text": "The NIH Office of Dietary Supplements reviews creatine as a sports supplement with evidence for some high-intensity, repeated efforts; effects and appropriateness vary. Supplement decisions can require professional advice.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "creatine",
+      "strength"
+    ]
+  },
+  {
+    "chunk_id": "C016",
+    "source_id": "NIH",
+    "source_title": "NIH ODS — Dietary Supplements for Exercise and Athletic Performance",
+    "source_url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+    "section": "Supplement cautions",
+    "topic": "muscle",
+    "text": "The NIH notes that exercise supplements vary in evidence and safety. Products may have adverse effects, interact with medicines or be contaminated; marketing claims alone are not adequate evidence.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "supplements",
+      "safety"
+    ]
+  },
+  {
+    "chunk_id": "C017",
+    "source_id": "NIH",
+    "source_title": "NIH ODS — Dietary Supplements for Exercise and Athletic Performance",
+    "source_url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+    "section": "Hydration",
+    "topic": "muscle",
+    "text": "Fluid needs in exercise depend on the duration and intensity of activity, sweat losses, heat and the person. Rigid one-size-fits-all quantities are not reliable.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "hydration",
+      "exercise"
+    ]
+  },
+  {
+    "chunk_id": "C018",
+    "source_id": "WHO",
+    "source_title": "WHO — Healthy diet (2026)",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "section": "Four principles",
+    "topic": "general",
+    "text": "The WHO identifies adequacy, balance, moderation and diversity as core principles of a healthy diet. A diet must also be safe.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "balanced diet",
+      "nutrition"
+    ]
+  },
+  {
+    "chunk_id": "C019",
+    "source_id": "WHO",
+    "source_title": "WHO — Healthy diet (2026)",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "section": "Fruit and vegetables",
+    "topic": "general",
+    "text": "The WHO emphasizes a variety of fruits and vegetables as part of a healthy diet, alongside nutritious foods such as whole grains and legumes.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "vegetables",
+      "fruits",
+      "diet"
+    ]
+  },
+  {
+    "chunk_id": "C020",
+    "source_id": "WHO",
+    "source_title": "WHO — Healthy diet (2026)",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "section": "Limit salt and sugar",
+    "topic": "general",
+    "text": "The WHO recommends limiting excessive sodium and free sugars, rather than relying on highly processed foods for most dietary energy.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "sugar",
+      "salt"
+    ]
+  },
+  {
+    "chunk_id": "C021",
+    "source_id": "WHO",
+    "source_title": "WHO — Healthy diet (2026)",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "section": "Food quality",
+    "topic": "general",
+    "text": "The WHO describes minimally processed and unprocessed foods, with lower levels of unhealthy fats, free sugars and sodium, as a useful foundation for healthy eating.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "processed foods",
+      "nutrition"
+    ]
+  },
+  {
+    "chunk_id": "C022",
+    "source_id": "WHO",
+    "source_title": "WHO — Healthy diet (2026)",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "section": "Personal variability",
+    "topic": "general",
+    "text": "The precise composition of a healthy diet varies with age, activity, culture and local food availability. Guidance should not be treated as a personalized medical meal plan.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "personalization",
+      "diet"
+    ]
+  },
+  {
+    "chunk_id": "C023",
+    "source_id": "CDC",
+    "source_title": "CDC — Steps for Losing Weight (2025)",
+    "source_url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html",
+    "section": "Sustainable habits",
+    "topic": "weight",
+    "text": "The CDC presents weight management as involving nutritious eating, regular physical activity, adequate sleep and stress management.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "weight",
+      "lifestyle"
+    ]
+  },
+  {
+    "chunk_id": "C024",
+    "source_id": "CDC",
+    "source_title": "CDC — Steps for Losing Weight (2025)",
+    "source_url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html",
+    "section": "Gradual loss",
+    "topic": "weight",
+    "text": "The CDC states that gradual, steady weight loss is more likely to be maintained than faster weight loss. Rapid-loss targets should not be issued automatically by a chatbot.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "weight loss",
+      "gradual"
+    ]
+  },
+  {
+    "chunk_id": "C025",
+    "source_id": "CDC",
+    "source_title": "CDC — Steps for Losing Weight (2025)",
+    "source_url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html",
+    "section": "Individual variation",
+    "topic": "weight",
+    "text": "The CDC notes that medication, health conditions, age, environment, genes and other factors can affect weight. Medical concerns should be discussed with qualified care providers.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "weight",
+      "health"
+    ]
+  },
+  {
+    "chunk_id": "C026",
+    "source_id": "CDC",
+    "source_title": "CDC — Steps for Losing Weight (2025)",
+    "source_url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html",
+    "section": "Tracking and planning",
+    "topic": "weight",
+    "text": "The CDC discusses setting realistic goals and reviewing habits as part of sustainable weight management; nutrition support need not require an extreme plan.",
+    "language": "en",
+    "provenance": "editorial_paraphrase",
+    "keywords": [
+      "weight",
+      "plan"
+    ]
+  }
+]

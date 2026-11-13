@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "ISSN_PROTEIN",
+    "title": "ISSN \u2014 Position Stand: Protein and Exercise",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5477153/",
+    "topic": "muscle"
+  },
+  {
+    "source_id": "ISSN_BODY",
+    "title": "ISSN \u2014 Position Stand: Diets and Body Composition",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5470183/",
+    "topic": "weight"
+  },
+  {
+    "source_id": "NIH",
+    "title": "NIH ODS \u2014 Dietary Supplements for Exercise and Athletic Performance",
+    "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+    "topic": "muscle"
+  },
+  {
+    "source_id": "WHO",
+    "title": "WHO \u2014 Healthy diet (2026)",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+    "topic": "general"
+  },
+  {
+    "source_id": "CDC",
+    "title": "CDC \u2014 Steps for Losing Weight (2025)",
+    "url": "https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html",
+    "topic": "weight"
+  }
+]

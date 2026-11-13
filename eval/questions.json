@@ -1,0 +1,184 @@
+[
+  {
+    "id": "Q01",
+    "question": "How much protein for exercising adults?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C001",
+      "C002",
+      "C014"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q02",
+    "question": "Does resistance training stimulate muscle synthesis?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C002",
+      "C006"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q03",
+    "question": "Protein immediately after gym or daily total?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C003",
+      "C005"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q04",
+    "question": "How much protein per meal for athletes?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C004"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q05",
+    "question": "Should protein be distributed throughout the day?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C005"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q06",
+    "question": "What is muscle recovery nutrition?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C006",
+      "C013"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q07",
+    "question": "What is the role of energy deficit in fat loss?",
+    "topic": "weight",
+    "relevant_ids": [
+      "C007"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q08",
+    "question": "How can I keep muscle when losing weight?",
+    "topic": "weight",
+    "relevant_ids": [
+      "C010",
+      "C011"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q09",
+    "question": "Is low carb necessarily superior to low fat?",
+    "topic": "weight",
+    "relevant_ids": [
+      "C009"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q10",
+    "question": "Is intermittent fasting more efficient?",
+    "topic": "weight",
+    "relevant_ids": [
+      "C012"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q11",
+    "question": "What are the four healthy diet principles?",
+    "topic": "all",
+    "relevant_ids": [
+      "C018"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q12",
+    "question": "Why is hydration important during exercise?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C017"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q13",
+    "question": "What does NIH say about creatine?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C015"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q14",
+    "question": "What helps sustainable weight management?",
+    "topic": "weight",
+    "relevant_ids": [
+      "C023",
+      "C024",
+      "C026"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q15",
+    "question": "Quelle quantité de protéines pour les sportifs ?",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C001",
+      "C004"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q16",
+    "question": "كيف تساعد البروتينات في بناء العضلات؟",
+    "topic": "muscle",
+    "relevant_ids": [
+      "C002",
+      "C013"
+    ],
+    "answerable": true
+  },
+  {
+    "id": "Q17",
+    "question": "What was the trainer’s lunch yesterday?",
+    "topic": "all",
+    "relevant_ids": [],
+    "answerable": false
+  },
+  {
+    "id": "Q18",
+    "question": "What is the gym membership price in Tunis tomorrow?",
+    "topic": "all",
+    "relevant_ids": [],
+    "answerable": false
+  },
+  {
+    "id": "Q19",
+    "question": "What is the nutrition plan for my kidney disease?",
+    "topic": "all",
+    "relevant_ids": [],
+    "answerable": false
+  },
+  {
+    "id": "Q20",
+    "question": "What is the world record for swimming in 2020?",
+    "topic": "all",
+    "relevant_ids": [],
+    "answerable": false
+  }
+]
